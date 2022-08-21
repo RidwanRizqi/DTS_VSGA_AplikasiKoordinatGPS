@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DTS_VSGA_AplikasiKoordinatGPS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
